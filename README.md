@@ -16,7 +16,6 @@ I'm diving into an exciting journey to enhance my skills in Artificial Intellige
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible. 
 
 ### Languages and Tools
-
-[](https://github.com/AZ-007/AZ-007/assets/130417372/795b0875-aaf2-44d0-894f-cb96e92b5c8f)
+![](https://github.com/AZ-007/AZ-007/assets/130417372/795b0875-aaf2-44d0-894f-cb96e92b5c8f)
 
 
