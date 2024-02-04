@@ -1,7 +1,7 @@
-
-# Hi there 👋, my name is Abdulaziz
-## I am Data scientist and Web developer
 ![I am Data scientist and Web developer](https://github.com/AZ-007/AZ-007/assets/130417372/fe4649f4-d5f1-4191-8d99-1580abab0a78)
+                                                  # Hi there 👋, my name is Abdulaziz
+                                                  ## I am Data scientist and Web developer
+
 
 
 
