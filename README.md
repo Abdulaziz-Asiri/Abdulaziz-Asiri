@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Abdulaziz
+#### I am Data scientist and Web developer
+![I am Data scientist and Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**AZ-007/AZ-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm computer sciences fresh graduate, I'm diving into an exciting journey to enhance my skills in Artificial Intelligence and data sciences. Armed with a solid foundation in computer sciences, I am eager to explore the rapidly evolving fields that are shaping the future of technology.
 
-Here are some ideas to get you started:
+Skills: Python / PHP / JS / HTML / CSS / OpenCV / scikit-learn / Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machin Learning project 
+- 🌱 I’m currently learning computer vision , neural network and data analysis 
+- 👯 I’m looking to collaborate on AI projects 
+- 📫 How to reach me: A.Asiri-75-@hotmail.com 
+- ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible. 
+
+
+[<img src=)  
+
