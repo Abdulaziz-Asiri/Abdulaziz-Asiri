@@ -1,6 +1,8 @@
+
 # Hi there 👋, my name is Abdulaziz
 ## I am Data scientist and Web developer
-![I am Data scientist and Web developer](https://github.com/AZ-007/AZ-007/assets/130417372/8ec3dd2e-0e48-4231-93d5-535025c6e844)
+![I am Data scientist and Web developer](https://github.com/AZ-007/AZ-007/assets/130417372/fe4649f4-d5f1-4191-8d99-1580abab0a78)
+
 
 
 I'm diving into an exciting journey to enhance my skills in Artificial Intelligence and data sciences. Armed with a solid foundation in computer sciences, I am eager to explore the rapidly evolving fields that are shaping the future of technology.
@@ -15,6 +17,6 @@ I'm diving into an exciting journey to enhance my skills in Artificial Intellige
 
 ### Languages and Tools
 
-![Python](https://www.python.org/)
+[](https://github.com/AZ-007/AZ-007/assets/130417372/795b0875-aaf2-44d0-894f-cb96e92b5c8f)
 
 
