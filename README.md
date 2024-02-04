@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Abdulaziz
-#### I am Data scientist and Web developer
-![I am Data scientist and Web developer](https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png![banner_python-](https://github.com/AZ-007/AZ-007/assets/130417372/51eb4266-60b1-42c9-b17f-4563ebfa6e9b)
-).
+# Hi there 👋, my name is Abdulaziz
+## I am Data scientist and Web developer
+![I am Data scientist and Web developer](https://github.com/AZ-007/AZ-007/assets/130417372/8ec3dd2e-0e48-4231-93d5-535025c6e844)
+
 
 I'm computer sciences fresh graduate, I'm diving into an exciting journey to enhance my skills in Artificial Intelligence and data sciences. Armed with a solid foundation in computer sciences, I am eager to explore the rapidly evolving fields that are shaping the future of technology.
 
