@@ -11,7 +11,7 @@ I'm diving into an exciting journey to enhance my skills in Artificial Intellige
 
 
 - 🔭 I’m currently working on Machin Learning project 
-- 🌱 I’m currently learning computer vision , neural network and data analysis 
+- 🌱 I’m currently learning Computer Vision , Neural Network and Data Analysis 
 - 👯 I’m looking to collaborate on AI projects 
 - 📫 How to reach me: A.Asiri-75-@hotmail.com 
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible. 
