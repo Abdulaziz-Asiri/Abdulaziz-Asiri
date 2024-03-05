@@ -6,7 +6,7 @@
 
 
 
-I'm diving into an exciting journey to enhance my skills in Artificial Intelligence and data sciences. Armed with a solid foundation in computer sciences, I am eager to explore the rapidly evolving fields that are shaping the future of technology.
+Data Scientist and Web Developer with a passion for leveraging data-driven insights to drive strategic decision-making and enhance user experiences. Proficient in developing cutting-edge machine learning models and deploying web applications to deliver innovative solutions.
 
 
 
