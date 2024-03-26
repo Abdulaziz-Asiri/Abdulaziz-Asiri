@@ -6,13 +6,11 @@
 
 
 
-Data Scientist and Web Developer with a passion for leveraging data-driven insights to drive strategic decision-making and enhance user experiences. Proficient in developing cutting-edge machine learning models and deploying web applications to deliver innovative solutions.
+Data Scientist and full-stack web developer. I am passionate about creating innovative solutions and pushing the boundaries of what is possible. With proficiency in Python, SQL, Pandas, NumPy, and Scikit-Learn to develop cutting-edge machine learning models as well as HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions.
 
 
 
-- 🔭 I’m currently working on Machin Learning project
 - 🌱 I’m currently learning Computer Vision , Neural Network, Data Analysis and Web Development 
-- 👯 I’m looking to collaborate on AI projects 
 - 📫 How to reach me: A.Asiri-75-@hotmail.com 
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible. 
 
