@@ -1,7 +1,7 @@
 ![I am Data scientist and Web developer](https://github.com/AZ-007/AZ-007/assets/130417372/fe4649f4-d5f1-4191-8d99-1580abab0a78)
 
 #                                                         Hi there 👋, my name is Abdulaziz
-##                                                       I am Data Scientist and Web Developer
+##                                                       I am Data Scientist and Full Stack Developer
 
 
 
@@ -10,7 +10,7 @@ Data Scientist and full-stack web developer. I am passionate about creating inno
 
 
 
-- 🌱 I’m currently learning Computer Vision , Neural Network, Data Analysis and Web Development.
+- 🌱 I’m currently learning Computer Vision, Neural Network, Data Analysis and Web Development.
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible.
 
  
