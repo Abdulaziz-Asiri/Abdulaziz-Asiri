@@ -6,7 +6,7 @@
 
 
 
-Data Scientist and full-stack web developer. I am passionate about creating innovative solutions and pushing the boundaries of what is possible. With proficiency in Python, SQL, Pandas, NumPy, and Scikit-Learn to develop cutting-edge machine learning models as well as HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions.
+Data Scientist and full-stack web developer. I am passionate about creating innovative solutions and pushing the boundaries of what is possible. proficient in Python, SQL, Pandas, NumPy, and Scikit-Learn to develop cutting-edge machine learning models as well as HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions.
 
 
 
