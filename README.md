@@ -5,11 +5,13 @@
 
 
 
-As a Full-stack web developer, I am passionate about creating innovative solutions and pushing the boundaries of what is possible. Proficient in Python, SQL, HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions. Currently seeking opportunities to enhance my knowledge and skills in machine learning, deep learning, and generative AI. Excited to collaborate on innovative AI projects and contribute to cutting-edge advancements in the field.
+As a Full-stack web developer, I am passionate about creating innovative solutions and pushing the boundaries of what is possible. Proficient in Python, SQL, HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions. 
+
+Currently seeking opportunities to enhance my knowledge and skills in machine learning, deep learning, and generative AI. Excited to collaborate on innovative AI projects and contribute to cutting-edge advancements in the field.
 
 
 
-- 🌱 I’m currently learning AI, Neural Networks, Data science and.
+- 🌱 I’m currently learning AI, Neural Networks, Data science.
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible.
 
  
