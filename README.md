@@ -1,16 +1,15 @@
 ![I am Data scientist and Web developer](https://github.com/AZ-007/AZ-007/assets/130417372/fe4649f4-d5f1-4191-8d99-1580abab0a78)
 
 #                                                         Hi there 👋, my name is Abdulaziz
-##                                                       I am Data Scientist and Full Stack Developer
+##                                                       I am Full Stack Developer
 
 
 
-
-Data Scientist and full-stack web developer. I am passionate about creating innovative solutions and pushing the boundaries of what is possible. proficient in Python, SQL, Pandas, NumPy, and Scikit-Learn to develop cutting-edge machine learning models as well as HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions.
-
+As a Full-stack web developer, I am passionate about creating innovative solutions and pushing the boundaries of what is possible. Proficient in Python, SQL, HTML, CSS, JavaScript, TypeScript, React, C#, and ASP.NET to deploy web applications and deliver innovative solutions. Currently seeking opportunities to enhance my knowledge and skills in machine learning, deep learning, and generative AI. Excited to collaborate on innovative AI projects and contribute to cutting-edge advancements in the field.
 
 
-- 🌱 I’m currently learning Computer Vision, Neural Network, Data Analysis and Web Development.
+
+- 🌱 I’m currently learning AI, Neural Networks, Data science and.
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible.
 
  
