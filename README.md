@@ -1,7 +1,7 @@
 ![](https://github.com/AZ-007/AZ-007/assets/130417372/fe4649f4-d5f1-4191-8d99-1580abab0a78)
 
-#                                                         Hi there 👋, my name is Abdulaziz. 
-## I'm a Full-stack developer Specialized in building web applications
+#                                                         I'm Abdulaziz a software engineer Specializing in building web applications
+
 
 I am passionate about creating innovative solutions and pushing the boundaries of what is possible. 
 
