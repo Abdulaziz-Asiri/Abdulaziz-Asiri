@@ -1,9 +1,7 @@
 ![](https://github.com/AZ-007/AZ-007/assets/130417372/fe4649f4-d5f1-4191-8d99-1580abab0a78)
 
-#                                                         I'm Abdulaziz a software engineer Specializing in building web applications
+#                                                         I'm Abdulaziz a Full-Stack developer
 
-
-I am passionate about creating innovative solutions and pushing the boundaries of what is possible. 
 
 - ⚡ Fun fact: The only way to achieve the impossible is to believe it is possible.
 
