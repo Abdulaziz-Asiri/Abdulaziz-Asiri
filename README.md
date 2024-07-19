@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz-asiri&" alt="abdulaziz-asiri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz-asiri&" alt="abdulaziz-asiri" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulaziz-asiri&show_icons=true&locale=en" alt="abdulaziz-asiri" /></p> 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz-asiri&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
